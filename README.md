@@ -165,7 +165,7 @@ results.xlsx
 
 ## 7. Troubleshooting
 
-* **Argument errors**: Run `python main.py --help`
+* **Argument errors**: Run `python main_cli.py --help`
 * **Missing packages**: Re-run `pip install -r requirements.txt`
 * **Excel file open error**: Close the file before re-running experiments
 
